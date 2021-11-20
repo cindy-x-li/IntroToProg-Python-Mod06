@@ -1,0 +1,5 @@
+do laundry, 1
+walk dog, 2
+clean garage, 1
+buy bibs, 5
+buy apples, 5
